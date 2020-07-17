@@ -1,5 +1,7 @@
 # Secure startup script for Tails
 
+ref. https://www.reddit.com/r/tailswiki/wiki/index/vpn/tor-over-vpn
+
 - Set torrc automatically (include from exclude_nodes)
 - Conncect to OpenVPN server automatically
   - Profile to use is randomly selected from ovpn_profiles
