@@ -1,0 +1,2 @@
+StrictNodes 1
+ExcludeNodes SlowServer,{us},{gb},{ca},{au},{nz}

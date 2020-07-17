@@ -1,0 +1,3 @@
+ovpn_profiles/*
+exclude_nodes
+!.keep
